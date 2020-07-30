@@ -6,3 +6,5 @@ counter = 0
   return words
 
 end
+
+my_each
