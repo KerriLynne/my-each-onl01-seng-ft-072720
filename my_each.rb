@@ -8,5 +8,5 @@ counter = 0
 
 end
 
-my_each(words) do |x|
+my_each([1,2,3]) do |x|
 end
