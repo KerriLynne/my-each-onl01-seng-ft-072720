@@ -9,4 +9,5 @@ counter = 0
 end
 
 my_each([1,2,3]) do |x|
+  puts x
 end
