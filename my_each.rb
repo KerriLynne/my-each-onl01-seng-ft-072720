@@ -7,7 +7,3 @@ counter = 0
   return words
 
 end
-
-my_each([1,2,3]) do |x|
-  puts x
-end
